@@ -1,0 +1,23 @@
+{
+  "name": "stream-engine",
+  "version": "1.0.0",
+  "description": "stream-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmasina2021/stream.git"
+  },
+  "author": "Matteo Masina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmasina2021/stream/issues"
+  },
+  "homepage": "https://github.com/mmasina2021/stream#readme",
+  "dependencies": {
+    "kafkajs": "^1.15.0",
+    "node-red": "^1.3.5"
+  }
+}
